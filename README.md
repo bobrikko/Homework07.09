@@ -8,4 +8,7 @@ $$
 Tayler Derden
 $$
 
+![image](https://github.com/bobrikko/Homework07.09/assets/144109211/035ee571-9c33-4b54-b4d6-22152fb7caf3)
+
+
 [Добро пожаловать в Бойцовский клуб](https://www.kinopoisk.ru/film/361/)
