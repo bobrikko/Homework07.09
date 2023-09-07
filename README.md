@@ -8,5 +8,4 @@ $$
 Tayler Derden
 $$
 
-[Добро пожаловать в Бойцовский клуб]
-(https://www.kinopoisk.ru/film/361/)
+[Добро пожаловать в Бойцовский клуб](https://www.kinopoisk.ru/film/361/)
